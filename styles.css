@@ -1,0 +1,30 @@
+* {
+    font-family: roboto, verdana, sans-serif;
+    display: flex;
+}
+
+.header-container {
+   
+}
+
+.header-logo {
+   
+}
+
+.header-links {
+
+}
+
+.hero-container {
+
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8
+}
+
+.hero-secondary-text {
+
+}
